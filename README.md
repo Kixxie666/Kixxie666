@@ -2,7 +2,6 @@
 - 🧠 I focus on **Python**, **Django**, **Flask**, **IoT**, and **AI-based applications**.
 - 🚀 I love building tools that help people from smart monitoring systems to fake news detection apps.
 - 🎓 Recently finished a BSc in Computing with Smart Technologies.
-- 🛠 I enjoy messing with **Raspberry Pi**, automating stuff, and shipping bold UI designs.
 - **Portfolio** - Fresh React-based website: [kixxie.com](https://kixxie.com)
 
 ### 🧭 Tech Stack
