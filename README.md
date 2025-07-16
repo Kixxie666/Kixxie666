@@ -21,7 +21,7 @@
 
 - ✉️ Email: [rgt2017@gmail.com](mailto:rgt2017@gmail.com)  
 - 🌐 Website: [kixxie.com](https://kixxie.com)  
-- 🔗 LinkedIn: [www.linkedin.com/in/6ryan6taylor6]
+- 🔗 LinkedIn: www.linkedin.com/in/6ryan6taylor6
 - 💻 GitHub: [github.com/Kixxie666](https://github.com/Kixxie666)
 
 
